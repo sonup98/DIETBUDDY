@@ -1,0 +1,6 @@
+{
+  "name": "DietBuddy",
+  "description": "Premium beginner-friendly nutrition companion, calorie/macro tracker, and personal AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
